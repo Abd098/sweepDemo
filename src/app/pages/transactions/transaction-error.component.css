@@ -43,14 +43,6 @@
   background-color: #003d80;
 }
 
-.retry-button:hover, .back-button:hover {
-  background-color: #0056b3;
-}
-
-.retry-button:active, .back-button:active {
-  background-color: #003d80;
-}
-
 @media (max-width: 600px) {
   .title, .message, .error-details {
     font-size: 1em;
